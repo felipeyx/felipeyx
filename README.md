@@ -28,7 +28,7 @@
   <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="25" alt="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" alt="HTML5">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="25" alt="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="25" alt="Python">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" width="25" alt="Linux">
 
