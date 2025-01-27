@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="85" src="https://media.tenor.com/9sDktwVuiGUAAAAi/catjam-jam.gif"  />
+<img align="right" height="75" src="https://media.tenor.com/9sDktwVuiGUAAAAi/catjam-jam.gif"  />
 
 ###
 
@@ -73,7 +73,9 @@
   <a href="https://discord.gg/ZwjAErGWGH" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="25" alt="discord logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="25" alt="twitch logo"  />
+  <a href="https://www.twitch.tv/felipeyn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="25" alt="twitch logo"  />
+  </a>
   <a href="https://www.youtube.com/@felipeyl" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="25" alt="youtube logo"  />
   </a>
