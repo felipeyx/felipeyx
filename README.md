@@ -26,7 +26,7 @@
 
   <h2>Tecnologias ⚙️</h2>
   <div align="center">
-    <img src="https://simpleicons.org/icons/javascript.svg" width="25" alt="JavaScript">
+    <img src="https://logospng.org/wp-content/uploads/javascript.png" width="25" alt="JavaScript">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="25" alt="HTML5">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="25" alt="CSS3">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="25" alt="Python">
@@ -42,7 +42,7 @@
     <a href="mailto:felipepetronio@gmail.com">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="25" alt="Email">
     </a>
-    <a href="https://www.instagram.com/felipeyn/">
+    <a href="https://www.instagram.com/felipeyw/">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="25" alt="Instagram">
     </a>
     <a href="https://discord.gg/ZwjAErGWGH">
