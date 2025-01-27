@@ -1,54 +1,62 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+<br clear="both">
 
-  <h1>Olá! Eu sou o Felipe 👋</h1>
+<h5 align="left">👩‍💻  I’m Felipe👋</h5>
 
-  <p>🎓 <strong>Estudante de Redes de Computadores</strong> (Ensino Superior)</p>
-  <p>💻 <strong>Técnico em Desenvolvimento de Sistemas</strong></p>
-  <p>🔐 <strong>Focado em Redes, Segurança e Desenvolvimento Web</strong></p>
-  <p>🌟 <strong>Apaixonado por tecnologia e inovação!</strong></p>
+###
 
-  <div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB4Mzd3aDd1M2c1NW9uN3ByMHNwbjZ3bTQxMHE2dmh4aWJmeTFreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GeimqsH0TLDt4tScGw/giphy.gif" width="120" alt="GIF de um gato dançando">
-  </div>
+<img align="right" height="85" src="https://media.tenor.com/9sDktwVuiGUAAAAi/catjam-jam.gif"  />
 
-  <h2>Sobre Mim 🧑‍💻</h2>
-  <ul>
-    <li><strong>Cursando Redes de Computadores</strong> no ensino superior.</li>
-    <li><strong>Estudando Desenvolvimento de Sistemas</strong> no curso técnico.</li>
-    <li><strong>Focado em TI, desenvolvimento e cibersegurança.</strong></li>
-  </ul>
+###
 
-  <h2>Tecnologias ⚙️</h2>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="25" alt="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" alt="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" alt="CSS3">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="25" alt="Python">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" width="25" alt="Linux">
+<p align="left">• 🚀 I work with network management and IT solutions.<br>• 📖 Currently learning Computer Networks and Systems Development.<br>• 🎮 In my free time, I enjoy exploring tech and gaming.</p>
 
-  </div>
+###
 
-  <h2>Redes Sociais 🌐</h2>
-  <div align="center">
-    <a href="https://www.linkedin.com/in/felipepetronio/">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="25" alt="LinkedIn">
-    </a>
-    <a href="mailto:felipepetronio@gmail.com">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="25" alt="Email">
-    </a>
-    <a href="https://www.instagram.com/felipeyw/">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="25" alt="Instagram">
-    </a>
-    <a href="https://discord.gg/ZwjAErGWGH">
-      <img src="https://simpleicons.org/icons/discord.svg" width="25" alt="Discord">
-    </a>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipeyx&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeyx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-</body>
-</html>
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="25" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="25" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="25" alt="twitch logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="25" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipepetronio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="20" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
