@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="75" src="https://media.tenor.com/9sDktwVuiGUAAAAi/catjam-jam.gif"  />
+<img align="right" height="100" src="https://media.tenor.com/9sDktwVuiGUAAAAi/catjam-jam.gif"  />
 
 ###
 
@@ -14,7 +14,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipeyx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeyx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -59,30 +58,19 @@
 
 ###
 
-<h3 align="left">🔥   Connect with Me</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/felipeyw/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://x.com/felipeyyz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/felipepetronio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/ZwjAErGWGH" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.twitch.tv/felipeyn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="25" alt="twitch logo"  />
-  </a>
-  <a href="https://www.youtube.com/@felipeyl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="25" alt="youtube logo"  />
-  </a>
 </div>
 
 ###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/felipepetronio/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="20" alt="linkedin logo"  />
