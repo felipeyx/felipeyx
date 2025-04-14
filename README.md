@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="100" src="https://media.tenor.com/9sDktwVuiGUAAAAi/catjam-jam.gif"  />
+<img align="right" height="100" src=""  />
 
 ###
 
