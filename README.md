@@ -4,8 +4,6 @@
 
 ###
 
-<img align="right" height="100" src=""  />
-
 ###
 
 <p align="left">• 🚀 I work with network management and IT solutions.<br>• 📖 Currently learning Computer Networks and Systems Development.<br>• 🎮 In my free time, I enjoy exploring tech and gaming.</p>
