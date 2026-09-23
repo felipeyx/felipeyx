@@ -1,27 +1,29 @@
 <div align="center">
 
-## 👋 Hey! I'm Felipe
+# 👋 Felipe Campos
 
-**☁️ Cloud • 🌐 Networks • 🔐 Security • ⚙️ Automation**
+**☁️ Cloud · 🌐 Networks · 🔐 Security · ⚙️ Automation**
 
-Network management and IT solutions, with a growing focus on cloud, infrastructure, automation and security.
+Building practical experience in network infrastructure, cloud, automation and secure IT environments.
+
+<sub>Computer Networks & Systems Development</sub>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About
 
-- 🌐 Networks, infrastructure and IT solutions
-- ☁️ Cloud computing and DevOps
-- 🔐 Security, monitoring and reliability
+- 🌐 Network management, infrastructure and IT solutions
+- ☁️ Cloud computing, containers and DevOps practices
+- 🔐 Security, monitoring and service reliability
 - ⚙️ Automation, deployments and observability
 
 ---
 
 ### ☁️ Cloud & Infrastructure
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" title="Microsoft Azure" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="AWS" title="AWS" />
@@ -45,7 +47,7 @@ Network management and IT solutions, with a growing focus on cloud, infrastructu
 
 ### 🛠 Development & Tools
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" title="GitHub" />
@@ -65,9 +67,11 @@ Network management and IT solutions, with a growing focus on cloud, infrastructu
 
 ---
 
-### 🎯 Current Focus
+<div align="center">
 
-☁️ Cloud infrastructure • 🌐 Networking • 🔐 Security • ⚙️ Automation • 📊 Observability
+**🎯 Focus:** Cloud Infrastructure · Networking · Security · Automation · Observability
+
+</div>
 
 ---
 
