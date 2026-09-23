@@ -19,6 +19,14 @@
 
 ---
 
+### 🎯 Current Focus
+- 🌐 Building and maintaining web projects.
+- 🔐 Improving infrastructure, networking, and security practices.
+- ⚙️ Learning more about automation, deployment, and observability.
+- 🧪 Publishing practical experiments in public repositories.
+
+---
+
 ### ⚙️ Tools & Platforms
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
