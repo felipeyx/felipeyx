@@ -71,9 +71,9 @@ Network management and IT solutions, with a growing focus on cloud, infrastructu
 
 ---
 
-### 📡 Connect with Me
+<h3 align="center">📡 Connect with Me</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/felipex.dev/" target="_blank" title="@felipex.dev">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Instagram @felipex.dev" />
   </a>
