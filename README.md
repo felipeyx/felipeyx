@@ -68,16 +68,6 @@ Technology professional focused on **infrastructure, networking and IT solutions
 
 ---
 
-<div align="center">
-
-### 🎯 Current Focus
-
-**Cloud Infrastructure · Networking · Security · Automation · Observability**
-
-</div>
-
----
-
 <h3 align="center">📡 Connect with Me</h3>
 
 <div align="center">
