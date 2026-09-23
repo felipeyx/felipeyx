@@ -1,28 +1,28 @@
 <div align="center">
 
-# Olá! Eu sou Felipe Campos 👋
+# Hello! I'm Felipe Campos 👋
 
-**☁️ Cloud · 🌐 Redes · 🔐 Segurança · ⚙️ Automação**
+**☁️ Cloud · 🌐 Networks · 🔐 Security · ⚙️ Automation**
 
-Profissional de tecnologia focado em **infraestrutura, redes e soluções de TI**, evoluindo constantemente em cloud, automação, segurança e observabilidade.
+Technology professional focused on **infrastructure, networking and IT solutions**, continuously growing in cloud, automation, security and observability.
 
-<sub>🎓 Redes de Computadores • Desenvolvimento de Sistemas</sub>
+<sub>🎓 Computer Networks • Systems Development</sub>
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About Me
 
-- 🌐 Atuação e interesse em **redes, infraestrutura e suporte de TI**
-- ☁️ Aprimorando conhecimentos em **Cloud, containers e DevOps**
-- 🔐 Foco em **segurança, monitoramento e confiabilidade**
-- ⚙️ Explorando **automação, deploys e observabilidade**
-- 🚀 Sempre buscando transformar conhecimento técnico em soluções práticas
+- 🌐 Working with and learning about **networks, infrastructure and IT support**
+- ☁️ Expanding my knowledge in **Cloud, containers and DevOps**
+- 🔐 Focused on **security, monitoring and reliability**
+- ⚙️ Exploring **automation, deployments and observability**
+- 🚀 Always looking to turn technical knowledge into practical solutions
 
 ---
 
-### ☁️ Cloud & Infraestrutura
+### ☁️ Cloud & Infrastructure
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" title="Microsoft Azure" />
@@ -46,7 +46,7 @@ Profissional de tecnologia focado em **infraestrutura, redes e soluções de TI*
 
 ---
 
-### 🛠 Desenvolvimento & Ferramentas
+### 🛠 Development & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />
@@ -70,7 +70,7 @@ Profissional de tecnologia focado em **infraestrutura, redes e soluções de TI*
 
 <div align="center">
 
-### 🎯 Em foco
+### 🎯 Current Focus
 
 **Cloud Infrastructure · Networking · Security · Automation · Observability**
 
@@ -78,7 +78,7 @@ Profissional de tecnologia focado em **infraestrutura, redes e soluções de TI*
 
 ---
 
-<h3 align="center">📡 Conecte-se comigo</h3>
+<h3 align="center">📡 Connect with Me</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/felipex.dev/" target="_blank" title="@felipex.dev">
