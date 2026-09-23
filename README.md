@@ -1,27 +1,28 @@
 <div align="center">
 
-# 👋 Felipe Campos
+# Olá! Eu sou Felipe Campos 👋
 
-**☁️ Cloud · 🌐 Networks · 🔐 Security · ⚙️ Automation**
+**☁️ Cloud · 🌐 Redes · 🔐 Segurança · ⚙️ Automação**
 
-Building practical experience in network infrastructure, cloud, automation and secure IT environments.
+Profissional de tecnologia focado em **infraestrutura, redes e soluções de TI**, evoluindo constantemente em cloud, automação, segurança e observabilidade.
 
-<sub>Computer Networks & Systems Development</sub>
+<sub>🎓 Redes de Computadores • Desenvolvimento de Sistemas</sub>
 
 </div>
 
 ---
 
-### 👨‍💻 About
+### 👨‍💻 Sobre mim
 
-- 🌐 Network management, infrastructure and IT solutions
-- ☁️ Cloud computing, containers and DevOps practices
-- 🔐 Security, monitoring and service reliability
-- ⚙️ Automation, deployments and observability
+- 🌐 Atuação e interesse em **redes, infraestrutura e suporte de TI**
+- ☁️ Aprimorando conhecimentos em **Cloud, containers e DevOps**
+- 🔐 Foco em **segurança, monitoramento e confiabilidade**
+- ⚙️ Explorando **automação, deploys e observabilidade**
+- 🚀 Sempre buscando transformar conhecimento técnico em soluções práticas
 
 ---
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infraestrutura
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" title="Microsoft Azure" />
@@ -45,7 +46,7 @@ Building practical experience in network infrastructure, cloud, automation and s
 
 ---
 
-### 🛠 Development & Tools
+### 🛠 Desenvolvimento & Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />
@@ -69,13 +70,15 @@ Building practical experience in network infrastructure, cloud, automation and s
 
 <div align="center">
 
-**🎯 Focus:** Cloud Infrastructure · Networking · Security · Automation · Observability
+### 🎯 Em foco
+
+**Cloud Infrastructure · Networking · Security · Automation · Observability**
 
 </div>
 
 ---
 
-<h3 align="center">📡 Connect with Me</h3>
+<h3 align="center">📡 Conecte-se comigo</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/felipex.dev/" target="_blank" title="@felipex.dev">
